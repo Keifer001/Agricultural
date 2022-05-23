@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="wgsc"
+  id="myeclipse.1365819117494"
+  context-root="/wgsc"
+  j2ee-spec="5.0"
+  archive="wgsc.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/daima" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/daima/wgsc/src/com/itbaizhan/base/AjaxBean.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/daima/wgsc/src/com/itbaizhan/filter/CharacterEncodingFilter.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/daima/wgsc/src/com/itbaizhan/service/AdminServiceImpl.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/daima/wgsc/src/com/itbaizhan/struts/action/MerAction.java" charset="UTF-8" />
+    <file url="PROJECT" charset="GBK" />
+  </component>
+</project>
